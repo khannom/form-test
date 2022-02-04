@@ -1,0 +1,10 @@
+.form-text-wrap {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    column-gap: 20px;
+}
+
+.form-text-input {
+    width: 200px;
+}

@@ -1,0 +1,29 @@
+.App {
+	margin: 15vh 15vw;
+	display: inline-block;
+	padding: 2em 4em;
+	background-color: #fff;
+	border-radius: 10px;
+}
+
+.form-box {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.form-submit-button {
+    margin-top: 10px;
+	font-size: 15px;
+	height: 3em;
+	background-color: black;
+	color: white;
+	font-weight: bold;
+    border: none;
+}
+
+.form-submit-button:hover {
+    background-color: #ddd;
+    color: black;
+    cursor: pointer
+  }
